@@ -1,9 +1,5 @@
 # UAS Bahasa Pemrograman 1
 
-silakan tuliskan langkah-langkah disertai screenshot
-
-# UAS Bahasa Pemrograman 1
-
 silakan tuliskan langkah-langkah disertai screenshotnya
 
 #langkah 1 
@@ -110,5 +106,5 @@ class BaseApp:
 #Langkah 5
 
 pada tahap ini kita akan menjalankan eksekusi nya dengan  ketik RUN jika berhasil maka gambarnya di bawah seperti ini:
+#![langkah 5](https://user-images.githubusercontent.com/46734107/55857461-70abb000-5b97-11e9-84cb-11f254170415.png)
 
-# ![langkah 4](https://user-images.githubusercontent.com/46734107/55856859-cd0dd000-5b95-11e9-8fd0-de4162be7b66.png)
