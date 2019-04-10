@@ -2,20 +2,27 @@
 
 silakan tuliskan langkah-langkah disertai screenshotnya
 
-#langkah 1 
-ketik link yang tersedia kemudian akan muncul bacaan seperti clone
+# Langkah 1
+
+Ketik link yang tersedia kemudian akan muncul bacaan seperti clone
+
 # ![langkah 1](https://user-images.githubusercontent.com/46734107/55854551-39d19c00-5b8f-11e9-8690-fceaaca6b420.png)
 
-#langkah 2
-pada tahap ini kita membuat projek baru dengan konfigurasi virtual environment sepeti gambar di bawah ini
+# Langkah 2
+
+Pada tahap ini kita membuat projek baru dengan konfigurasi virtual environment sepeti gambar di bawah ini
+
 # ![langkah 2](https://user-images.githubusercontent.com/46734107/55855084-b31dbe80-5b90-11e9-9daf-aa3fcdb34255.png)
 
-#langkah 3
- pada tahap ini install pip dari pyCram seperti di bawah ini
-#![langkah 3](https://user-images.githubusercontent.com/46734107/55855257-37704180-5b91-11e9-927a-549954c375b3.png)
+# Langkah 3
 
-#Langkah 4
- pada tahap ini kita membuat kodingan dengan nama main.py dan baseapp.py
+Pada tahap ini install pip dari pyCram seperti di bawah ini
+
+# ![langkah 3](https://user-images.githubusercontent.com/46734107/55855257-37704180-5b91-11e9-927a-549954c375b3.png)
+
+# Langkah 4
+
+Pada tahap ini kita membuat kodingan dengan nama main.py dan baseapp.py
  
 # kode kodingan main.py
  
@@ -30,7 +37,7 @@ if __name__ == "__main__":
     theApp.run()
 ``` 
  
-# kode kodingan baseapp.py
+# Kode kodingan baseapp.py
 
 ```
 from os import path
@@ -103,9 +110,9 @@ class BaseApp:
 
         pygame.quit()
  ```
-#Langkah 5
+# Langkah 5
 
-pada tahap ini kita akan menjalankan eksekusi nya dengan  ketik RUN jika berhasil maka gambarnya di bawah seperti ini:
+Pada tahap ini kita akan menjalankan eksekusi nya dengan  ketik RUN jika berhasil maka gambarnya di bawah seperti ini:
 
-![langkah 5](https://user-images.githubusercontent.com/46734107/55857461-70abb000-5b97-11e9-84cb-11f254170415.png)
+# ![langkah 5](https://user-images.githubusercontent.com/46734107/55857461-70abb000-5b97-11e9-84cb-11f254170415.png)
 
