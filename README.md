@@ -102,9 +102,10 @@ class BaseApp:
             pygame.display.flip()
 
         pygame.quit()
-     ```
+ ```
 #Langkah 5
 
 pada tahap ini kita akan menjalankan eksekusi nya dengan  ketik RUN jika berhasil maka gambarnya di bawah seperti ini:
-#![langkah 5](https://user-images.githubusercontent.com/46734107/55857461-70abb000-5b97-11e9-84cb-11f254170415.png)
+
+![langkah 5](https://user-images.githubusercontent.com/46734107/55857461-70abb000-5b97-11e9-84cb-11f254170415.png)
 
